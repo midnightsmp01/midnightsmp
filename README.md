@@ -52,7 +52,7 @@ footer{text-align:center;padding:40px;opacity:.6}
   <div class="card"><div class="icon">❔</div><p>YouTube klipek és stream részletek</p></div>
 </div>
 <h2>Legújabb videók</h2>
-
+<div class="grid">
   <div class="card"><div class="icon">❔</div><b>MidnightSMP – Nyitás</b><p>hamarosan</p></div>
   <div class="card"><div class="icon">❔</div><b>MidnightSMP – PvP</b><p>hamarosan</p></div>
   <div class="card"><div class="icon">❔</div><b>MidnightSMP – Káosz</b><p>hamarosan</p></div>
